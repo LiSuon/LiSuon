@@ -12,7 +12,27 @@
     <img src="https://github.com/LiSuon/LiSuon/assets/113451044/9b756034-7e9d-4808-bf78-e6b115282b70" width="50" height="50"/>
   </a>
 </div>
-  
+
+---
+
+### :woman_technologist: Немного о себе :  
+
+Начинающий Backend разработчик на Python. Мой путь в it начался, когда я решил написать свой парсер. Для решения этой задачи мне пришлось изучать синтаксис языка Python, а также смотреть много обучающих роликов на YouTube. И вот я написал свою первую программу, которая парсила нужную мне информацию. Процесс написания кода оказался для меня очень интересным. В 2023 я познакомился с ребятами из своего универа, которые подкивали мне идеи для программирования. В итоге Backend оказался для меня наиболее интересующим направлением и я начал изучать Django. 
+
+### :hammer_and_wrench: Технологии :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="70" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Git" **alt="Git" width="70" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Git" **alt="Git" width="70" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Git" **alt="Git" width="70" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Git" **alt="Git" width="70" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Git" **alt="Git" width="70" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Git" **alt="Git" width="70" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Git" **alt="Git" width="70" height="50"/>
+</div>
+ 
+---
+
 <!--
 **LiSuon/LiSuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
